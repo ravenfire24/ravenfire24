@@ -1,10 +1,32 @@
 ## Hi there 👋
-I am a UH trained computer scientist with a strong foundation in software development and data science. I have hands-on experience in Python and C++ programming and a strong interest in building practical, data-driven solutions.
+I’m a computer scientist and software developer focused on building practical systems that combine backend engineering, databases, machine learning, AI applications, and data-driven software solutions.
 
-- 🚀 I’m currently working on developing robust inventory management systems using C++, designing interactive data visualizations in R, implementing machine learning models with Python, and MySQL database (here) (https://github.com/ravenfire24?tab=repositories)
-- 🌱 I’m currently learning advanced techniques in data visualization using RStudio, inventory management systems in C++, MySQL database and machine learning models for analyzing trends in sales data.
+## 🚀 About Me
 
-- 👯 I’m looking to collaborate on projects involving predictive analytics, data-driven decision-making, and building efficient software solutions for inventory and resource management.
+My projects include:
+- AI chatbot and conversational assistant applications
+- Inventory management systems in C++
+- Machine learning models for analyzing sales trends
+- Full-stack volunteer management applications
+- MySQL database architecture and integration
+- Aspect-based opinion search and sentiment analysis
+- Cybersecurity and Active Directory penetration testing research
+
+## 🌱 Currently Learning
+
+- Advanced machine learning workflows
+- Scalable backend and database architecture
+- AI-assisted application development
+- Data visualization using RStudio
+- System optimization and cloud-based solutions
+
+## 👯 Looking to Collaborate On
+
+- AI chatbot and automation projects
+- Data analytics and machine learning systems
+- Backend/API development
+- Inventory and resource management software
+- Open-source developer tools
 
 🔗 Resume:
 https://github.com/ravenfire24/resume/blob/main/resume.pdf
