@@ -6,7 +6,7 @@ I’m a computer scientist and software developer focused on building practical 
 My projects include:
 - AI chatbot and conversational assistant applications
 - Inventory management systems in C++
-- Machine learning models for analyzing sales trends
+- Financial planning and analysis copilot development
 - Full-stack volunteer management applications
 - MySQL database architecture and integration
 - Aspect-based opinion search and sentiment analysis
