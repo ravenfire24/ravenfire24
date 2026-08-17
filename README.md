@@ -28,8 +28,6 @@ My projects include:
 - Inventory and resource management software
 - Open-source developer tools
 
-🔗 Resume:
-https://github.com/ravenfire24/resume/blob/main/Resume_new.pdf
   
 <!--
 **ravenfire24/ravenfire24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
